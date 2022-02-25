@@ -1,0 +1,1 @@
+I became interested in programming in high school and started learning on my own. After experiencing various things, starting from website creation, blog management, web application development, smartphone application development, I am now aiming to become a web engineer.
